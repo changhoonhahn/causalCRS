@@ -7,10 +7,11 @@ and [Cano & Hahn (2024) Nature Accepted]().
 
 
 ## Download Data and Setup Symlink
-Download all relevant data from: 
+Download all relevant data from: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13135690.svg)](https://doi.org/10.5281/zenodo.13135690)
 
 
-Then set up symlink 
+Most of the code in the repo is set up to work with a symlink to the directory
+with the data. To set up symlink use: 
 ```bash
 
 cd $CAUSALCRS_REPO_DIRECTORY 
