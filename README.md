@@ -1,6 +1,9 @@
 # causalCRS
-Measuring and evaluating the causal effect of the FEMA Community Response System flood adaptation interventions
-
+Measuring and evaluating the causal effect of the FEMA Community Response System to investigate 
+the disparities in flood adaptation interventions. 
+This repository accompanies the papers: 
+[![arXiv](https://img.shields.io/badge/arxiv-2312.03843-b31b1b.svg)](https://arxiv.org/abs/2312.03843)
+and [Cano & Hahn (2024) Nature Accepted]().
 
 
 ## Download Data and Setup Symlink
